@@ -1,0 +1,482 @@
+[
+  {
+    "id": "wind_relieving",
+    "name": "ガス抜きのポーズ",
+    "effects": [
+      "lower_back",
+      "visceral_functionality",
+      "constipation",
+      "hip_joint"
+    ],
+    "description": [
+      "【手順①】仰向けになり、両脚をそろえる",
+      "【手順②】両脚を曲げ、膝を胸に引き寄せる",
+      "【手順③】両膝を抱える"
+    ]
+  },
+  {
+    "id": "reclined_pigeon",
+    "name": "４の字のポーズ",
+    "effects": [
+      "pelvis",
+      "hip",
+      "hip_joint",
+      "blood_circulation"
+    ],
+    "description": [
+      "【手順①】仰向けになり、膝を立てる",
+      "【手順②】足首を膝の上に乗せ、脚で数字の“4”の字を作る",
+      "【手順③】脚を床から持ち上げ、片手を内ももの間から通して膝の裏に添える"
+    ]
+  },
+  {
+    "id": "happy_baby",
+    "name": "ハッピーベイビーのポーズ",
+    "effects": [
+      "constipation",
+      "cold_feet",
+      "swelling_legs",
+      "stress_reduction",
+      "lower_back",
+      "pelvis"
+    ],
+    "description": [
+      "【手順①】仰向けになり、両脚をそろえる",
+      "【手順②】両脚を曲げ、膝を胸に引き寄せる",
+      "【手順③】膝を開き、土踏まずをつかんで、膝を床の方に引き下げる"
+    ]
+  },
+  {
+    "id": "reclining_twist",
+    "name": "仰向けのねじりのポーズ",
+    "effects": [
+      "lower_back",
+      "visceral_functionality",
+      "constipation",
+      "waist"
+    ],
+    "description": [
+      "【手順①】仰向けになり両手を広げる",
+      "【手順②】両脚を真上に上げる",
+      "【手順③】両脚を倒し、腹部をひねる"
+    ]
+  },
+  {
+    "id": "corpse",
+    "name": "しかばねのポーズ",
+    "effects": [
+      "eyestrain",
+      "stress_reduction",
+      "insomnia",
+      "rest_brains"
+    ],
+    "description": [
+      "【手順①】仰向けになる",
+      "【手順②】両手両足を伸ばす",
+      "【手順③】全身の力を抜く"
+    ]
+  },
+  {
+    "id": "butterfly",
+    "name": "合せきのポーズ",
+    "effects": [
+      "hip_joint",
+      "fatigue_recovery",
+      "back",
+      "uterus"
+    ],
+    "description": [
+      "【手順①】かかとを股関節の方へ引く",
+      "【手順②】骨盤を立てる",
+      "【手順③】両膝を下ろす"
+    ]
+  },
+  {
+    "id": "upright_eye-of-the-needle",
+    "name": "針の穴のポーズ",
+    "effects": [
+      "hip",
+      "swelling_legs",
+      "blood_circulation",
+      "hip_joint"
+    ],
+    "description": [
+      "【手順①】片脚を両手で持ち上げる",
+      "【手順②】お尻と太ももの裏側を伸ばす"
+    ]
+  },
+  {
+    "id": "cow_face",
+    "name": "牛の顔のポーズ",
+    "effects": [
+      "concentration",
+      "shoulders",
+      "spine",
+      "upper_arms"
+    ],
+    "description": [
+      "【手順①】両脚を片側に流し、横座りする",
+      "【手順②】片膝を抱え、脚をクロスする",
+      "【手順③】両手を背面で組む"
+    ]
+  },
+  {
+    "id": "extended_child",
+    "name": "子供のポーズ",
+    "effects": [
+      "lower_back",
+      "insomnia",
+      "constipation",
+      "mood"
+    ],
+    "description": [
+      "【手順①】左右のつま先を合わせ正座になる",
+      "【手順②】胸とももをひっつけて、おでこを床に下ろす",
+      "【手順③】両手を前方に伸ばす"
+    ]
+  },
+  {
+    "id": "seated_forward_flod",
+    "name": "背面を伸ばすポーズ",
+    "effects": [
+      "back",
+      "visceral_functionality",
+      "nose",
+      "uterus"
+    ],
+    "description": [
+      "【手順①】腰から後頭部までをしっかり伸ばし座る",
+      "【手順②】足裏を両手でつかむ",
+      "【手順③】前屈を深める"
+    ]
+  },
+  {
+    "id": "boat",
+    "name": "船のポーズ",
+    "effects": [
+      "core",
+      "stomach",
+      "back",
+      "waist"
+    ],
+    "description": [
+      "【手順①】両膝を曲げて座る",
+      "【手順②】後方に倒れながら両脚を上げる",
+      "【手順③】両手を伸ばし、手を離してバランスをとる"
+    ]
+  },
+  {
+    "id": "cobra",
+    "name": "コブラのポーズ",
+    "effects": [
+      "lower_back",
+      "respiratory_function",
+      "spine",
+      "mood"
+    ],
+    "description": [
+      "【手順①】うつ伏せになり、手を床につく",
+      "【手順②】顔を上げ、上体を起こす",
+      "【手順③】あごを上げ、さらに上体を起こす"
+    ]
+  },
+  {
+    "id": "pigeon",
+    "name": "ハトのポーズ",
+    "effects": [
+      "pelvis",
+      "shoulders",
+      "poor_circulation",
+      "hip_joint"
+    ],
+    "description": [
+      "【手順①】片膝を開き、逆の脚を後ろに伸ばす",
+      "【手順②】後ろの脚を曲げ、足をつかむ",
+      "【手順③】足を腕に引っかけ、両手をつかみ合う"
+    ]
+  },
+  {
+    "id": "camel",
+    "name": "ラクダのポーズ",
+    "effects": [
+      "core",
+      "stomach",
+      "back",
+      "shoulders"
+    ],
+    "description": [
+      "【手順①】膝立ちになり、両手を腰に当てる",
+      "【手順②】体を反らせ、両手でかかとに触れる",
+      "【手順③】かかとをつかみ、胸を突き上げる"
+    ]
+  },
+  {
+    "id": "bow",
+    "name": "弓のポーズ",
+    "effects": [
+      "posture",
+      "upper_body",
+      "swelling",
+      "blood_circulation"
+    ],
+    "description": [
+      "【手順①】うつ伏せになり、両足首をつかむ",
+      "【手順②】胸と膝を持ち上げる",
+      "【手順③】足を高く引き上げる"
+    ]
+  },
+  {
+    "id": "gate",
+    "name": "かんぬきのポーズ",
+    "effects": [
+      "hip_joint",
+      "spine",
+      "core",
+      "upper_arms"
+    ],
+    "description": [
+      "【手順①】両脚を揃えて膝立ちになる",
+      "【手順②】片手を上げ、反対の脚を真横に伸ばす",
+      "【手順③】伸ばした脚の方に上体を倒す"
+    ]
+  },
+  {
+    "id": "cat_cow",
+    "name": "キャットアンドカウのポーズ",
+    "effects": [
+      "respiratory_function",
+      "back",
+      "spine",
+      "nervous_system",
+      "shoulders",
+      "constipation"
+    ],
+    "description": [
+      "【手順①】四つん這いになる",
+      "【手順②】息を吸いながら、斜め前方を見上げるように背中を反らせる",
+      "【手順③】息を吐きながら、おへそを見るように背中を丸める"
+    ]
+  },
+  {
+    "id": "thread_the_needle",
+    "name": "針の糸通しのポーズ",
+    "effects": [
+      "neck",
+      "shoulders",
+      "visceral_functionality",
+      "nervous_system",
+      "waist",
+      "spine"
+    ],
+    "description": [
+      "【手順①】四つん這いになる",
+      "【手順②】片方のこめかみと肩を床につける",
+      "【手順③】反対の手は顔の横に置いてしっかりと床を押す"
+    ]
+  },
+  {
+    "id": "lizard",
+    "name": "トカゲのポーズ",
+    "effects": [
+      "hip_joint",
+      "pelvis",
+      "core",
+      "energy_up"
+    ],
+    "description": [
+      "【手順①】四つん這いから片脚を踏み出す",
+      "【手順②】後ろの膝を床から上げる",
+      "【手順③】両肘を曲げて床につける"
+    ]
+  },
+  {
+    "id": "downward_dog",
+    "name": "ダウンドッグのポーズ",
+    "effects": [
+      "respiratory_function",
+      "shoulders",
+      "back",
+      "lower_back",
+      "sole_legs"
+    ],
+    "description": [
+      "【手順①】四つん這いから腰を下ろし、上体を伸ばす",
+      "【手順②】腰を上げ、膝を伸ばす",
+      "【手順③】膝を伸ばして、腰を引き上げる"
+    ]
+  },
+  {
+    "id": "warrior_1",
+    "name": "戦士のポーズ１",
+    "effects": [
+      "mood",
+      "shoulders",
+      "lower_back",
+      "pelvis",
+      "hip_joint",
+      "energy_up"
+    ],
+    "description": [
+      "【手順①】片脚を大きく後ろに引く",
+      "【手順②】脚を曲げて踏み込む",
+      "【手順③】両手を上げ、合掌する"
+    ]
+  },
+  {
+    "id": "warrior_2",
+    "name": "戦士のポーズ２",
+    "effects": [
+      "lower_body",
+      "concentration",
+      "hip_joint",
+      "poor_circulation"
+    ],
+    "description": [
+      "【手順①】腕と脚を大きく横に開いて立つ",
+      "【手順②】片方の膝を曲げる",
+      "【手順③】踏み出した脚の方に顔を向ける"
+    ]
+  },
+  {
+    "id": "chair_twist",
+    "name": "ねじった椅子のポーズ",
+    "effects": [
+      "mood",
+      "visceral_functionality",
+      "thigh",
+      "waist"
+    ],
+    "description": [
+      "【手順①】脚をそろえて立つ",
+      "【手順②】手を腰に当て、腰を落とす",
+      "【手順③】両手を上げる",
+      "【手順④】胸の前で合唱し、体をねじる"
+    ]
+  },
+  {
+    "id": "extended_triangle",
+    "name": "三角のポーズ",
+    "effects": [
+      "core",
+      "hip_joint",
+      "side_body",
+      "mood"
+    ],
+    "description": [
+      "【手順①】腕と脚を大きく横に開いて立つ",
+      "【手順②】上体を横に倒す",
+      "【手順③】床に手をつき、上の手を見上げる"
+    ]
+  },
+  {
+    "id": "extended_side_angle",
+    "name": "体側を伸ばすポーズ",
+    "effects": [
+      "side_body",
+      "core",
+      "hip_joint",
+      "mood"
+    ],
+    "description": [
+      "【手順①】腕と脚を大きく横に開いて立つ",
+      "【手順②】片方の膝を曲げる",
+      "【手順③】片手を床につき、体側を伸ばす"
+    ]
+  },
+  {
+    "id": "side_plank",
+    "name": "横向きの板のポーズ",
+    "effects": [
+      "legs",
+      "posture",
+      "arms",
+      "shoulders",
+      "wrist",
+      "stomach",
+      "balance"
+    ],
+    "description": [
+      "【手順①】床に四つん這いになり、足を後ろに引く(板のポーズ)",
+      "【手順②】足を床につけたまま体の向きを90度回転させ、片手を天井に上げる",
+      "【手順③】片手を床につけたまま、反対の手で足をつかみ、天井へ引き上げる"
+    ]
+  },
+  {
+    "id": "half_moon",
+    "name": "半月のポーズ",
+    "effects": [
+      "fatigue_recovery",
+      "thigh",
+      "hip",
+      "core",
+      "hip_joint"
+    ],
+    "description": [
+      "【手順①】腕と脚を大きく横に開いて立つ",
+      "【手順②】片方の膝を曲げる",
+      "【手順③】片手を床につき、もう片方を腰に当てる",
+      "【手順④】脚を上げ、バランスをとる"
+    ]
+  },
+  {
+    "id": "wide_leg_forward_bend",
+    "name": "開脚前屈のポーズ",
+    "effects": [
+      "pelvis",
+      "visceral_functionality",
+      "blood_circulation",
+      "legs"
+    ],
+    "description": [
+      "【手順①】脚を大きく横に開き、前屈して手を床につく",
+      "【手順②】背筋を伸ばす",
+      "【手順③】両手を背面で組み、組んだ手を頭の方に下げる"
+    ]
+  },
+  {
+    "id": "eagle",
+    "name": "ワシのポーズ",
+    "effects": [
+      "concentration",
+      "legs",
+      "shoulders",
+      "upper_arms"
+    ],
+    "description": [
+      "【手順①】膝の上から逆脚をからませる",
+      "【手順②】体の中央で両手を重ねる",
+      "【手順③】左右の前腕をからませる"
+    ]
+  },
+  {
+    "id": "plow",
+    "name": "すき（鋤）のポーズ",
+    "effects": [
+      "visceral_functionality",
+      "shoulders",
+      "spine",
+      "nervous_system"
+    ],
+    "description": [
+      "【手順①】仰向けになる",
+      "【手順②】両脚を上げ、床に指先をつける",
+      "【手順③】両脚を伸ばし、腰を引き上げる"
+    ]
+  },
+  {
+    "id": "headstand",
+    "name": "頭立ちのポーズ",
+    "effects": [
+      "neck",
+      "concentration",
+      "balance",
+      "posture"
+    ],
+    "description": [
+      "【手順①】腕を組んで床につく",
+      "【手順②】頭頂を床につけ、脚を伸ばす",
+      "【手順③】腰を引き上げ、脚を床から浮かせる",
+      "【手順④】脚を伸ばし、体を一直線に立てる"
+    ]
+  }
+]
