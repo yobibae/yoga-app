@@ -5,7 +5,7 @@ import './Filters.css';
 function Filters({ currentFilters, onClick }) {
   return (
     <div>
-      <h5>フィルター</h5>
+      <h5>さまざまな悩みにオススメのヨガ</h5>
       <ul className="filters-list list-unstyled">
         {Object.keys(yogaEffects).map(effectKey => {
           return (

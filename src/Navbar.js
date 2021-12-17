@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav class="navbar navbar-light bg-light">
       <div class="container-fluid">
-        <Link class="navbar-brand" to="/">Yoga App</Link>
+        <Link class="navbar-brand" to="/">YOGĀsana</Link>
       </div>
     </nav>
   );
