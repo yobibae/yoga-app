@@ -2,6 +2,7 @@
   {
     "id": "wind_relieving",
     "name": "ガス抜きのポーズ",
+    "type": "仰向け／前屈",
     "effects": [
       "lower_back",
       "visceral_functionality",
@@ -17,6 +18,7 @@
   {
     "id": "reclined_pigeon",
     "name": "４の字のポーズ",
+    "type": "仰向け／前屈",
     "effects": [
       "pelvis",
       "hip",
@@ -32,6 +34,7 @@
   {
     "id": "happy_baby",
     "name": "ハッピーベイビーのポーズ",
+    "type": "仰向け／前屈",
     "effects": [
       "constipation",
       "cold_feet",
@@ -49,6 +52,7 @@
   {
     "id": "reclining_twist",
     "name": "仰向けのねじりのポーズ",
+    "type": "仰向け／ねじり",
     "effects": [
       "lower_back",
       "visceral_functionality",
@@ -64,6 +68,7 @@
   {
     "id": "corpse",
     "name": "しかばねのポーズ",
+    "type": "仰向け",
     "effects": [
       "eyestrain",
       "stress_reduction",
@@ -79,6 +84,7 @@
   {
     "id": "butterfly",
     "name": "合せきのポーズ",
+    "type": "座位",
     "effects": [
       "hip_joint",
       "fatigue_recovery",
@@ -94,6 +100,7 @@
   {
     "id": "upright_eye-of-the-needle",
     "name": "針の穴のポーズ",
+    "type": "座位",
     "effects": [
       "hip",
       "swelling_legs",
@@ -108,6 +115,7 @@
   {
     "id": "cow_face",
     "name": "牛の顔のポーズ",
+    "type": "座位",
     "effects": [
       "concentration",
       "shoulders",
@@ -123,6 +131,7 @@
   {
     "id": "extended_child",
     "name": "子供のポーズ",
+    "type": "座位／前屈",
     "effects": [
       "lower_back",
       "insomnia",
@@ -138,6 +147,7 @@
   {
     "id": "seated_forward_flod",
     "name": "背面を伸ばすポーズ",
+    "type": "座位／前屈",
     "effects": [
       "back",
       "visceral_functionality",
@@ -153,6 +163,7 @@
   {
     "id": "boat",
     "name": "船のポーズ",
+    "type": "座位／前屈／バランス",
     "effects": [
       "core",
       "stomach",
@@ -168,6 +179,7 @@
   {
     "id": "cobra",
     "name": "コブラのポーズ",
+    "type": "後屈",
     "effects": [
       "lower_back",
       "respiratory_function",
@@ -183,6 +195,7 @@
   {
     "id": "pigeon",
     "name": "ハトのポーズ",
+    "type": "後屈",
     "effects": [
       "pelvis",
       "shoulders",
@@ -198,6 +211,7 @@
   {
     "id": "camel",
     "name": "ラクダのポーズ",
+    "type": "後屈",
     "effects": [
       "core",
       "stomach",
@@ -213,6 +227,7 @@
   {
     "id": "bow",
     "name": "弓のポーズ",
+    "type": "後屈",
     "effects": [
       "posture",
       "upper_body",
@@ -228,6 +243,7 @@
   {
     "id": "gate",
     "name": "かんぬきのポーズ",
+    "type": "膝つき",
     "effects": [
       "hip_joint",
       "spine",
@@ -243,6 +259,7 @@
   {
     "id": "cat_cow",
     "name": "キャットアンドカウのポーズ",
+    "type": "後屈",
     "effects": [
       "respiratory_function",
       "back",
@@ -260,6 +277,7 @@
   {
     "id": "thread_the_needle",
     "name": "針の糸通しのポーズ",
+    "type": "後屈",
     "effects": [
       "neck",
       "shoulders",
@@ -292,6 +310,7 @@
   {
     "id": "downward_dog",
     "name": "ダウンドッグのポーズ",
+    "type": "立位",
     "effects": [
       "respiratory_function",
       "shoulders",
@@ -308,6 +327,7 @@
   {
     "id": "warrior_1",
     "name": "戦士のポーズ１",
+    "type": "立位／バランス",
     "effects": [
       "mood",
       "shoulders",
@@ -325,6 +345,7 @@
   {
     "id": "warrior_2",
     "name": "戦士のポーズ２",
+    "type": "立位／バランス",
     "effects": [
       "lower_body",
       "concentration",
@@ -340,6 +361,7 @@
   {
     "id": "chair_twist",
     "name": "ねじった椅子のポーズ",
+    "type": "立位／ねじり",
     "effects": [
       "mood",
       "visceral_functionality",
@@ -356,6 +378,7 @@
   {
     "id": "extended_triangle",
     "name": "三角のポーズ",
+    "type": "立位／バランス",
     "effects": [
       "core",
       "hip_joint",
@@ -371,6 +394,7 @@
   {
     "id": "extended_side_angle",
     "name": "体側を伸ばすポーズ",
+    "type": "立位／バランス",
     "effects": [
       "side_body",
       "core",
@@ -386,6 +410,7 @@
   {
     "id": "side_plank",
     "name": "横向きの板のポーズ",
+    "type": "立位／バランス",
     "effects": [
       "legs",
       "posture",
@@ -404,6 +429,7 @@
   {
     "id": "half_moon",
     "name": "半月のポーズ",
+    "type": "立位／バランス",
     "effects": [
       "fatigue_recovery",
       "thigh",
@@ -421,6 +447,7 @@
   {
     "id": "wide_leg_forward_bend",
     "name": "開脚前屈のポーズ",
+    "type": "立位／前屈",
     "effects": [
       "pelvis",
       "visceral_functionality",
@@ -436,6 +463,7 @@
   {
     "id": "eagle",
     "name": "ワシのポーズ",
+    "type": "立位／バランス",
     "effects": [
       "concentration",
       "legs",
@@ -451,6 +479,7 @@
   {
     "id": "plow",
     "name": "すき（鋤）のポーズ",
+    "type": "逆転",
     "effects": [
       "visceral_functionality",
       "shoulders",
@@ -466,6 +495,7 @@
   {
     "id": "headstand",
     "name": "頭立ちのポーズ",
+    "type": "逆転",
     "effects": [
       "neck",
       "concentration",

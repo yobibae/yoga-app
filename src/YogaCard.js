@@ -17,6 +17,7 @@ function YogaCard(props) {
               effects={props.pose.effects}
               currentFilters={props.currentFilters}
             />
+            <h6 class="card-type">{props.pose.type}</h6>
           </div>
         </div>
       </Link>
