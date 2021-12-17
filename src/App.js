@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <div className="container-xl">
+      <div>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/poses/:id" element={<Pose />} />

@@ -1,7 +1,6 @@
 import { useParams } from "react-router-dom";
-import Badge from "./Badge";
 import yogaPoses from './yoga_poses.json';
-import yogaEffects from './yoga_effects.json';
+import EffectBadges from "./EffectBadges";
 
 function Pose() {
   const params = useParams();
@@ -19,14 +18,7 @@ function Pose() {
         />
         <div class="card-body">
           <h1 class="card-title">{pose.name}</h1>
-          <ul>
-            {pose.effects.map(effect => (
-              <Badge
-                label={yogaEffects[effect]}
-                key={yogaEffects[effect]}
-              />
-            ))}
-          </ul>
+          <EffectBadges effects={pose.effects} />
           {pose.description.map(description => (
             <p class="card-text">{description}</p>
           ))}

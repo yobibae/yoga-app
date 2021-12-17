@@ -1,10 +1,9 @@
 import { Link } from "react-router-dom";
-import Badge from './Badge';
-import yogaEffects from './yoga_effects.json';
+import EffectBadges from "./EffectBadges";
 
 function YogaCard(props) {
   return (
-    <div class="col-sm-6 col-lg-4 mb-4">
+    <div class="col-sm-4 col-lg-3 mb-3">
       <Link to={`/poses/${props.pose.id}`}>
         <div class="card">
           <img
@@ -14,15 +13,10 @@ function YogaCard(props) {
           />
           <div class="card-body">
             <h5 class="card-title">{props.pose.name}</h5>
-            <ul>
-              {props.pose.effects.map(effect => (
-                <Badge
-                  label={yogaEffects[effect]}
-                  isHighlighted={props.currentFilters.includes(effect)}
-                  key={yogaEffects[effect]}
-                />
-              ))}
-            </ul>
+            <EffectBadges
+              effects={props.pose.effects}
+              currentFilters={props.currentFilters}
+            />
           </div>
         </div>
       </Link>
