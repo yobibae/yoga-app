@@ -5,7 +5,7 @@ function EffectBadges({ effects, currentFilters }) {
   return (
     <ul className="filters-list list-unstyled">
       {effects.map(effect => (
-        <li className="filter-item">
+        <li className="filter-item" key={effect}>
           <Badge
             label={yogaEffects[effect]}
             isHighlighted={currentFilters.includes(effect)}

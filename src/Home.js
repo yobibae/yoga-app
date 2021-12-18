@@ -3,6 +3,7 @@ import yogaPoses from './yoga_poses.json';
 import YogaCard from './YogaCard';
 import Filters from './Filters';
 import Cover from './Cover';
+import 'masonry';
 
 class Home extends Component {
   constructor(props) {
@@ -46,11 +47,12 @@ class Home extends Component {
           </div>
           <div className="row" data-masonry='{"percentPosition": true }'>
             {visiblePoses.map(pose => (
-              <YogaCard
-                pose={pose}
-                currentFilters={this.state.currentFilters}
-                key={pose.id}
-              />
+              <div className="col-sm-4 col-lg-3 mb-3" key={pose.id}>
+                <YogaCard
+                  pose={pose}
+                  currentFilters={this.state.currentFilters}
+                />
+              </div>
             ))}
           </div>
         </div>

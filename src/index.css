@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #f5e9ee !important;
+  background-color: #e3f3fa !important;
 }
 
 code {
@@ -15,4 +15,88 @@ code {
 
 .badge {
   cursor: pointer;
+}
+
+.navbar-logo {
+  height: 24px;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+a:link, a:visited {
+  color: initial;
+  text-decoration: none;
+}
+
+.yoga-card {
+  max-width: 480px;
+  -webkit-box-shadow: 0 0.5em 0.5em rgb(0 0 0 / 15%);
+  box-shadow: 0 0.5em 0.5em rgb(0 0 0 / 15%);
+}
+
+.pose-card-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.card-footer {
+  text-align: right;
+  display: flex;
+}
+
+.card-type {
+  text-align: right;
+  display: flex;
+  align-items: center;
+}
+
+.social-actions {
+  flex: 1;
+  margin: 0;
+  text-align: left;
+}
+
+.social-actions li {
+  display: inline-block;
+  padding: 4px;
+  margin-right: 4px;
+}
+
+.social-actions li a {
+  color: #6c757d;
+}
+
+.social-actions li a:hover {
+  color: black;
+}
+
+.pose-view {
+  padding: 64px 0;
+}
+
+.yoga-steps .list-group-item {
+  padding: 0 !important;
+  flex-direction: row;
+  display: flex;
+}
+
+.pose-step-index {
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+  font-weight: 600;
+}
+
+.pose-step-description {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  padding: 4px 12px;
 }

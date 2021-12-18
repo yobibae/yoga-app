@@ -3,6 +3,7 @@ import Navbar from './Navbar';
 import Home from './Home';
 import Pose from './Pose';
 import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 import './App.css';
 
 function App() {
