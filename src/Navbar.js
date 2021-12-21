@@ -5,7 +5,7 @@ function Navbar() {
     <nav className="navbar navbar-light bg-light">
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
-          <img className="navbar-logo" src="/images/home.png" alt="" />
+          <img className="navbar-logo" src={`${process.env.PUBLIC_URL}/images/home.png`} alt="" />
           YOGĀsana
         </Link>
       </div>

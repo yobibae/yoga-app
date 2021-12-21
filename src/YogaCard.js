@@ -9,7 +9,7 @@ function YogaCard(props) {
         <img
           className="card-img-top"
           width="100%"
-          src={`/images/${props.pose.id}.jpg`}
+          src={`${process.env.PUBLIC_URL}/images/${props.pose.id}.jpg`}
           alt="card"
         />
       </Link>
