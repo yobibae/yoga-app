@@ -4,6 +4,8 @@ import './index.css';
 import { HashRouter } from "react-router-dom";
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import ReactGA from "react-ga4";
+ReactGA.initialize("G-HMB01D0B3N");
 
 ReactDOM.render(
   <HashRouter>

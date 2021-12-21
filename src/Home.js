@@ -4,6 +4,7 @@ import YogaCard from './YogaCard';
 import Filters from './Filters';
 import Cover from './Cover';
 import 'masonry';
+import ReactGA from "react-ga4";
 
 class Home extends Component {
   constructor(props) {
@@ -13,6 +14,10 @@ class Home extends Component {
       poses: [...yogaPoses],
       currentFilters: []
     }
+  }
+
+  componentDidMount(){
+    ReactGA.send({ hitType: "pageview", page: "/" });
   }
 
   handleClickFilter = (effect) => {
