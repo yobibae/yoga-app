@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/yoga-app/static/css/main.89e158ed.chunk.css",
-    "main.js": "/yoga-app/static/js/main.cd7c4fc0.chunk.js",
-    "main.js.map": "/yoga-app/static/js/main.cd7c4fc0.chunk.js.map",
-    "runtime-main.js": "/yoga-app/static/js/runtime-main.4356739c.js",
-    "runtime-main.js.map": "/yoga-app/static/js/runtime-main.4356739c.js.map",
+    "main.css": "/yoga-app/static/css/main.e589ffa4.chunk.css",
+    "main.js": "/yoga-app/static/js/main.7dbf10c1.chunk.js",
+    "main.js.map": "/yoga-app/static/js/main.7dbf10c1.chunk.js.map",
+    "runtime-main.js": "/yoga-app/static/js/runtime-main.8ed688ec.js",
+    "runtime-main.js.map": "/yoga-app/static/js/runtime-main.8ed688ec.js.map",
     "static/css/2.7f4042f1.chunk.css": "/yoga-app/static/css/2.7f4042f1.chunk.css",
-    "static/js/2.c7523145.chunk.js": "/yoga-app/static/js/2.c7523145.chunk.js",
-    "static/js/2.c7523145.chunk.js.map": "/yoga-app/static/js/2.c7523145.chunk.js.map",
-    "static/js/3.1ef779bd.chunk.js": "/yoga-app/static/js/3.1ef779bd.chunk.js",
-    "static/js/3.1ef779bd.chunk.js.map": "/yoga-app/static/js/3.1ef779bd.chunk.js.map",
+    "static/js/2.415034fa.chunk.js": "/yoga-app/static/js/2.415034fa.chunk.js",
+    "static/js/2.415034fa.chunk.js.map": "/yoga-app/static/js/2.415034fa.chunk.js.map",
+    "static/js/3.91cf9392.chunk.js": "/yoga-app/static/js/3.91cf9392.chunk.js",
+    "static/js/3.91cf9392.chunk.js.map": "/yoga-app/static/js/3.91cf9392.chunk.js.map",
     "index.html": "/yoga-app/index.html",
     "static/css/2.7f4042f1.chunk.css.map": "/yoga-app/static/css/2.7f4042f1.chunk.css.map",
-    "static/css/main.89e158ed.chunk.css.map": "/yoga-app/static/css/main.89e158ed.chunk.css.map",
-    "static/js/2.c7523145.chunk.js.LICENSE.txt": "/yoga-app/static/js/2.c7523145.chunk.js.LICENSE.txt",
+    "static/css/main.e589ffa4.chunk.css.map": "/yoga-app/static/css/main.e589ffa4.chunk.css.map",
+    "static/js/2.415034fa.chunk.js.LICENSE.txt": "/yoga-app/static/js/2.415034fa.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/yoga-app/static/media/bootstrap-icons.38c4d249.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.4356739c.js",
+    "static/js/runtime-main.8ed688ec.js",
     "static/css/2.7f4042f1.chunk.css",
-    "static/js/2.c7523145.chunk.js",
-    "static/css/main.89e158ed.chunk.css",
-    "static/js/main.cd7c4fc0.chunk.js"
+    "static/js/2.415034fa.chunk.js",
+    "static/css/main.e589ffa4.chunk.css",
+    "static/js/main.7dbf10c1.chunk.js"
   ]
 }
