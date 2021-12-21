@@ -113,6 +113,22 @@
     ]
   },
   {
+    "id": "seated_twist",
+    "name": "半分の魚の王のポーズ ",
+    "type": "座位",
+    "effects": [
+      "visceral_functionality",
+      "pelvis",
+      "spine",
+      "waist"
+    ],
+    "description": [
+      "両脚を曲げ、クロスさせて座る",
+      "上体をひねり、片手を上げる",
+      "膝に肘をかけてさらにねじりを深める"
+    ]
+  },
+  {
     "id": "cow_face",
     "name": "牛の顔のポーズ",
     "type": "座位",
@@ -359,6 +375,23 @@
     ]
   },
   {
+    "id": "standing_forward_bend",
+    "name": "立位前屈のポーズ",
+    "type": "立位／前屈",
+    "effects": [
+      "fatigue_recovery",
+      "visceral_functionality",
+      "legs",
+      "rest_brains",
+      "stress_reduction"
+    ],
+    "description": [
+      "足を腰幅に開いて立つ",
+      "息を吐きながら上体を前に倒す",
+      "頭頂部を床に近づけるように体を折りたたむ"
+    ]
+  },
+  {
     "id": "chair_twist",
     "name": "ねじった椅子のポーズ",
     "type": "立位／ねじり",
@@ -458,6 +491,22 @@
       "脚を大きく横に開き、前屈して手を床につく",
       "背筋を伸ばす",
       "両手を背面で組み、組んだ手を頭の方に下げる"
+    ]
+  },
+  {
+    "id": "tree",
+    "name": "立木のポーズ",
+    "type": "立位／バランス",
+    "effects": [
+      "legs",
+      "posture",
+      "mood",
+      "balance"
+    ],
+    "description": [
+      "片足をつかみ引き上げる",
+      "かかとを脚のつけ根につけ、膝を開く",
+      "胸の前で合掌し、腕を真上に引き上げる"
     ]
   },
   {
