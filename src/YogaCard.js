@@ -46,7 +46,7 @@ function YogaCard(props) {
           <li>
             <a href={`https://www.facebook.com/sharer/sharer.php?u=${url}`} target="_blank" rel="noreferrer">
               <i className="bi bi-facebook"></i>
-              </a>
+            </a>
           </li>
           <li>
             <a target="_blank" rel="noreferrer" href={`https://twitter.com/intent/tweet?text=${url}`}>
