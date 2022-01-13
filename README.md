@@ -2,7 +2,7 @@
 
 # Description
 
-体の悩みに効果的なヨガポーズが検索できる
+体の悩みに効果的なヨガポーズが検索できます。
 
 # App URL
 
@@ -24,7 +24,7 @@ https://yobibae.github.io/yoga-app/
 * SNSでYOGĀsanaアプリやヨガポーズをシェアすることができます。
 [![Image from Gyazo](https://i.gyazo.com/35ad91a8a50e2709d7e48935b0e9c478.gif)](https://gyazo.com/35ad91a8a50e2709d7e48935b0e9c478)
 
-# Development environment
+# Development Environment
 
 * CSS, HTML, JavaScript, React, GitHub, GitHubDesktop
 
