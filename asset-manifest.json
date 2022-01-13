@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yoga-app/static/css/main.e589ffa4.chunk.css",
-    "main.js": "/yoga-app/static/js/main.54b9c387.chunk.js",
-    "main.js.map": "/yoga-app/static/js/main.54b9c387.chunk.js.map",
+    "main.js": "/yoga-app/static/js/main.9511a75a.chunk.js",
+    "main.js.map": "/yoga-app/static/js/main.9511a75a.chunk.js.map",
     "runtime-main.js": "/yoga-app/static/js/runtime-main.8ed688ec.js",
     "runtime-main.js.map": "/yoga-app/static/js/runtime-main.8ed688ec.js.map",
     "static/css/2.7f4042f1.chunk.css": "/yoga-app/static/css/2.7f4042f1.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.7f4042f1.chunk.css",
     "static/js/2.415034fa.chunk.js",
     "static/css/main.e589ffa4.chunk.css",
-    "static/js/main.54b9c387.chunk.js"
+    "static/js/main.9511a75a.chunk.js"
   ]
 }
