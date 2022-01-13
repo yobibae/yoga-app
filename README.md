@@ -15,7 +15,7 @@ https://yobibae.github.io/yoga-app/
 
 # DEMO
 
-* バッジをクリックすると、その部位や症状に効果的なヨガポーズが表示されます。
+* フィルターボタンをクリックすると、その部位や症状に効果的なヨガポーズが表示されます。
 [![Image from Gyazo](https://i.gyazo.com/0f6da665326927dd0f60f63f494c551f.gif)](https://gyazo.com/0f6da665326927dd0f60f63f494c551f)
 
 * ポーズをクリックすると手順が表示されます。
@@ -26,7 +26,7 @@ https://yobibae.github.io/yoga-app/
 
 # Development Environment
 
-* CSS, HTML, JavaScript, React, GitHub, GitHubDesktop
+* CSS, HTML, JavaScript, React, React Router v６, Bootstrap
 
 # Installation
 
